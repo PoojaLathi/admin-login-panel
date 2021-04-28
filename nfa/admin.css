@@ -10,7 +10,7 @@ body{
 	top:40%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	background-color: #f2f4f6;
+	background-color:#d1e0e0;
 
 }
 div.login-form{
@@ -21,7 +21,7 @@ div.login-form{
 }
 div.login-form h2{
     text-align: center;
-	background-color: #204969;
+	background-color: #476b6b;
 	padding: 13px 0px;
 	color: white;
 }
