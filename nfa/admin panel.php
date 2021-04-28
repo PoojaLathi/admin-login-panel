@@ -14,6 +14,7 @@ if (!isset($_SESSION['AdminLoginId']))
 	<style>
 		body{
 			margin: 0px;
+			background-color: #d1e0e0;
 		}
 		div.header{
 			font-family:poppins;
@@ -22,7 +23,7 @@ if (!isset($_SESSION['AdminLoginId']))
 			justify-content:space-between; 
 			align-items: center;
 			padding: 0px 60px;
-			background-color:#204969; 
+			background-color:#476b6b; 
 		}
 		div.header button{
             background-color: #f0f0f0;
